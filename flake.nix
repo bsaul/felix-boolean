@@ -41,7 +41,7 @@
 
           buildInputs = [ agda ];
 
-          everythingFile = "./src/Felix/Boolean.lagda.tex";
+          everythingFile = "./src/Felix/All.agda";
 
           meta = with pkgs.lib; {
             description = "Felix Booleans";
