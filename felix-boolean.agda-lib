@@ -1,3 +1,7 @@
-name: felix-boolean
-depend: standard-library felix
-include: src
+name: 
+  felix-boolean
+depend: 
+  standard-library 
+  felix
+include: 
+  src

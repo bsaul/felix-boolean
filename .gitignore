@@ -1,0 +1,8 @@
+*.agdai
+MAlonzo/
+_build/
+
+# build artifacts
+.envrc-local
+.direnv/
+result*
