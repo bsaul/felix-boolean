@@ -35,7 +35,7 @@
         };
 
         packages.default = pkgs.agdaPackages.mkDerivation {
-          pname = "felix";
+          pname = "felix-boolean";
           version = "0.0.1";
           src = ./.;
 
